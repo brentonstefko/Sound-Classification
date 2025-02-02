@@ -1,2 +1,2 @@
 # Sound-Classification
-Final Project, Harvard CS 181, Spring Term 2023
+Final Project, Harvard CS 181 (Machine Learning), Spring Term 2023
